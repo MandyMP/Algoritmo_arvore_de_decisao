@@ -1,19 +1,18 @@
-```
 
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+#  Olá, Bem vindo ao meu projeto de Tópicos Avançados 
 
 ## Ferramentas utilizadas:
 
-* HTML
+* Google Colab
 
-* CSS
+* Python
 
-* Flex-box
+## Descrição do projeto
+
+* O projeto faz uso dos algoritmos para fazer a classificação de clientes de cartão de crédito contidos na base de dados da empresa de cartão de crédito e a partir daí fazer uma seleção de um determinado grupo de clientes e emitir um relatório contendo seus dados, utilizando o algoritmo de arvóre de seleção.
 
 ## Feito por:
 
-### Joana Santos
+### Amanda Machado
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
-
-```
+### Linkedin: https://www.linkedin.com/in/amanda-machado-34446814b
